@@ -1,0 +1,23 @@
+# Intro to GitHub
+
+## What I Learned
+
+### Git vs GitHub
+**Git** is a distributed version control system,it tracks changes to your code locally. **GitHub** is a cloud-based platform that hosts Git repositories and adds a UI and collaboration layer on top.
+
+### Core Concepts
+
+**Repositories** - A project folder that stores all files and their full revision history. Can be worked on solo or with collaborators.
+
+**Cloning** - Downloading a remote repository to your local machine, including all file versions and history.
+
+**Committing & Pushing** - A *commit* is a checkpoint for your changes (with a message describing what you did). *Pushing* sends those commits to the remote repository on GitHub.
+
+**Branches** - Isolated copies of the repo where you can develop features or fix bugs without affecting the main codebase.
+
+**Forks** - A personal copy of someone else's repository, typically used for contributing to open source projects.
+
+**Pull Requests** - A request to merge changes from one branch into another. Enables code review and team discussion before merging.
+
+**Issues** - GitHub's built-in task tracker for bugs, features, or general to-dos.
+
